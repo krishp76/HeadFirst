@@ -1,2 +1,7 @@
 # HeadFirst
-Headfirst reading code
+
+This repository is for me to complete all the exercises I make from all the Head First Books I read. 
+
+
+HTML and CSS - Complete
+JavaScript - In Process
