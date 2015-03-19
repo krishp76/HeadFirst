@@ -5,3 +5,4 @@ This repository is for me to complete all the exercises I make from all the Head
 
 HTML and CSS - Complete <br>
 JavaScript - In Process
+JQuery - Next up
